@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 0FBB331F 1600818855 -0400\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_asus_I01WD\nnonce 1600818854-69E22E845EFF9FFCA8D530B8A572093F4C96E0A6\n\n0000000000000000000000000000000000000000 6ba61f5c9614e71b08543c879ac949797beaa57d refs/for/cr-8.0\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEkqz1NuhTmwnMKC0bhlFdVg+7Mx8FAl9qjqcACgkQhlFdVg+7\nMx87ugf/eAAEU9trNNpVgfqZVO2okMlScHhPLxDALmJ8wlXbKfjqCVQ0/8KVwvsX\nLfARDLIQ0rMqs+CBjJqjs90FWBi+WcLEpJKBC8pklOtX6jpsJXApzmKwehtCG8bA\nbRloz96P9XhbLhTWK8Nee+m8ca0m01tcfbaL6VjKHXQ8TkRZrdXcE3k7dh4JrzYj\n2BZTYbUV8QlXJ/J+Lb00v6kyCyqYaGc2B2/saIxCrGmMjrrkDtaa9SHzp+F5TQ2I\nHGsVpbZkE8+V19psWzaYCgnhuBgtqSsPz8d2XeLtJMOaEb2g2aMdBHBEF/4us9E3\npqhYFujyPuOKB4/qFAEd/xXLmUyhKg\u003d\u003d\n\u003dkCtu\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
